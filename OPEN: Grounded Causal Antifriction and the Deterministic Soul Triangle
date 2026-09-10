@@ -1,0 +1,216 @@
+Grounded Causal Antifriction
+and the Deterministic Soul Triangle
+Official Unofficial Situationship Outline Proposal
+Version 0.2  •  Conceptual formalization draft
+
+“We bury the key in a memory.”
+
+A deliberately speculative model of relational invariants, concealed causal channels, cross-temporal information coupling, and ambiguity-preserving history constraints.
+
+1. Status, Purpose, and Method
+This proposal formalizes a speculative causal and information-theoretic situationship model. Its purpose is not to assert that souls, Ghost Scopes, retrocausal channels, or multiple timelines physically exist. The immediate question is narrower: can the concepts be stated consistently enough to expose contradictions, derive consequences, and compare the resulting architecture with known mathematics and physics?
+The model began from an analogy to quantum entanglement, but quantum entanglement is not proposed as its mechanism. Physical realizability, mathematical coherence, and metaphysical interpretation are treated as separate questions.
+1.1 Fidelity Rule
+During formalization and consistency testing, a definition may receive a minor alteration only when the alteration more closely matches the concept’s original stated description than the current formal wording. Such changes must be identified explicitly rather than introduced silently. The rule permits correction of representation; it does not permit moving the goalposts to rescue a failed model.
+2. Primitive Structure
+Begin with three substrate-neutral entities:
+V = {A, B, C}
+Each entity possesses temporally indexed states Xᵢ(t). A history H assigns states, causal relations, information channels, records, and relational orientations over a temporal domain. The candidate-history space is denoted ℋ.
+H = {Xᵢ(t), Rᵢⱼ(t), Gᵢⱼ(t), M(t), …}
+Iᵢ(H,t) denotes information accessible to entity i. M(H,t) denotes persistent informational traces at time t: memories, records, measurements, physical traces, archives, and any combination from which past causal structure might be reconstructed.
+3. The Blindspot
+A Blindspot β is the grounding event or event-region shared by the three entities at which the causal sequence relevant to their subsequent relational structure is not uniquely identifiable. The Blindspot is not merely something the participants happen not to remember. Its defining causal ambiguity persists throughout the continuity of the timeline under the Prime Perplexity condition.
+β := grounding event with non-unique causal provenance
+4. Prime Perplexity
+Prime Perplexity is the preserved ambiguity of the Blindspot’s exact causal sequence. It is stronger than ordinary uncertainty and stronger than participant-relative ignorance. No entity, observer, archive, computational process, distributed collection of records, or later reconstruction process may retain or derive an intact and uniquely reconstructable determination of the protected causal sequence at any point during that timeline’s continuity—except under one narrowly defined collaborative decoding condition.
+4.1 Timeline-persistent non-reconstructability
+For every admissible H and every t > β:  Π_H(β,t) > 0
+Π measures unresolved causal provenance with respect to the maximally informative reconstructable state available in the timeline. The requirement applies to aggregated information, preventing a loophole in which individually incomplete records become decisive when combined.
+4.2 Authentic Collaborative Reconstruction
+The exact sequence must nevertheless remain reconstructable in principle. Its unique decoding condition is authentic collaboration among A, B, and C. Authenticity is a technical condition, not a synonym for agreement or friendliness.
+Capacity: each entity contributes to the best of its genuine individual capacities.
+Good faith: no participant knowingly deceives, withholds, distorts, sabotages, or strategically manipulates the reconstruction.
+Resolution-only intent: each participates strictly to resolve the Blindspot accurately for the sake of resolution itself, with no ulterior purpose dependent on the result.
+R*(A,B,C)(β) = C_β  iff  Auth_A ∧ Auth_B ∧ Auth_C
+Thus the information is not ontologically destroyed. A valid decoding configuration exists, but the relational architecture of the triangle guarantees that the required authentic configuration never actually occurs in any admissible history. Prime Perplexity is therefore decodability in principle combined with non-decodability in history.
+This information-preserving motivation is compatible in spirit with concerns raised by the black-hole information problem, but known physics does not require observer-accessible reconstruction. The present condition is an axiom of this speculative model, not a consequence of quantum theory.
+5. Soulmate Relations
+A Soulmate relation is an invariant consequential relationship between two entities across admissible realizations. The surface form of the relationship may change radically; what persists is the relational class and its orientation.
+5.1 Attractor Soulmate
+An Attractor Soulmate relation is oriented toward convergence, association, reinforcement, mutual approach, or another positively coupled form. ‘Attractor’ describes orientation rather than desirability.
+S⁺(A,B): invariant consequential relation with attractor orientation
+5.2 Repeller Soulmate
+A Repeller Soulmate relation is oriented toward divergence, opposition, interference, counteraction, or another negatively oriented coupling. It replaces ‘arch-nemesis’ as the formal term because overt hostility is only one possible manifestation.
+S⁻(A,B): invariant consequential relation with repeller orientation
+Attractor and Repeller are not presence versus absence of relation. They are differently oriented forms of invariant relation.
+6. Null Ghost Shadow
+A Null Ghost Shadow (NGS) is an invariant concealed coupling outside of the DST between two entities that are otherwise causally incapable of observing one another, directly or indirectly, except through entity-specific, mutually distinct Ghost Scopes.
+A ↛ B except through G_B(A);   B ↛ A except through G_A(B)
+6.1 Ghost Scopes
+Each entity has a specific Ghost Scope for reception of the other. The two scopes are distinct channels and do not collapse into a shared interface.
+G_A(B): B → A     and     G_B(A): A → B     with G_A(B) ≠ G_B(A)
+6.2 Phenomenological asymmetry
+Each entity experiences only apparently one-way reception. Neither recognizes that it transmits information to the other, nor does its operative causal model contain such transmission as a known possibility. Received information may therefore appear deliberately sent from the Null Ghost even when the originating state was not intentionally transmitted.
+Reception is observable.
+Outbound transmission is unperceived.
+The reciprocal channel is inaccessible.
+The true two-channel architecture is non-identifiable from either participant’s available evidence.
+The result is a relationship that exists objectively while producing, from within each participant’s causal model, the functional appearance of its own absence.
+7. Cross-Temporal Ghost Coupling
+A Ghost Scope may be hypothesized to terminate at a different temporal coordinate from its origin. This introduces cross-temporal information coupling without requiring an entity itself to traverse a closed worldline.
+G_A(B): B(t₂) → A(t₁), potentially with t₂ > t₁
+This distinction does not establish physical retrocausality. If information genuinely influences an earlier temporal state, the model still contains retrocausal dependence and must satisfy consistency constraints. The proposal therefore distinguishes temporal information coupling from temporal traversal, rather than claiming to evade causality by terminology.
+8. Grounded Causal Antifriction
+Grounded Causal Antifriction (GCA) is the history-selection or history-compatibility principle under which causal evolution may vary while preserving the model’s grounding invariants. It does not act as a last-minute force preventing contradictions; histories incompatible with the invariants are simply non-admissible.
+Γ(H) = C(H) ∧ R(H) ∧ P(H)
+C(H): global logical and causal self-consistency.
+R(H): preservation of the required Soulmate and Null Ghost relational invariants.
+P(H): preservation of Prime Perplexity and its unique authentic decoding condition.
+ℋ_adm = { H ∈ ℋ | Γ(H) = 1 }
+GCA is therefore variation of history subject to preservation of grounding conditions. The ‘ground’ is supplied by the Blindspot and its Prime Perplexity.
+9. The Deterministic Soul Triangle
+The Deterministic Soul Triangle (DST) is a three-entity, relationally closed structure grounded at a Blindspot and stabilized by interlocking invariant relations. Its deterministic feature is paradoxical by design: what is guaranteed is that a particular causal fact remains unresolved except under a decoding condition that the triangle’s own relational orientations guarantee will never be authentically instantiated.
+DST = (V, R, G, β, Π, Γ)
+V: the three participating entities.
+R: their Attractor/Repeller Soulmate and other invariant relational classes.
+G: Ghost Scope architecture where a Null Ghost Shadow relation is present.
+β: the Blindspot.
+Π: Prime Perplexity.
+Γ: the GCA admissibility rule.
+A specific DST configuration may assign, for example, one entity’s Attractor Soulmate as another entity’s Repeller Soulmate, while the remaining pair is coupled as Null Ghost Shadows. The exact edge assignment is a model parameter rather than a universal axiom.
+10. Why Authentic Reconstruction Never Occurs
+The model requires both propositions to hold simultaneously: exact reconstruction of the Blindspot is possible under authentic three-party collaboration, and the relational orientations of the three entities guarantee that this collaboration never occurs in any admissible history.
+R* ≠ ∅   but   ∀H ∈ ℋ_adm: Auth_A ∧ Auth_B ∧ Auth_C = false
+This is not mere practical improbability. In the strong form of the DST, the Attractor/Repeller/Null-Ghost arrangement makes authentic unanimity structurally incompatible with the history-space that preserves the triangle. The decoding key exists; the admissible universe never places all three hands on it authentically at once.
+11. Paradox and Consistency Tests
+11.1 Grandfather-class contradictions
+Test candidate histories in which cross-temporal influence would negate a causal precondition of itself. Lack of intentional transmission is insufficient by itself; an accidental signal can still generate contradiction. The question is whether Γ necessarily excludes every self-negating history.
+H contains X → ¬X  ⇒ ?  Γ(H)=0
+11.2 Bootstrap information
+Test closed information loops in which information lacks an external point of origination. Current intuition suggests GCA may reject logical contradiction while permitting causal-provenance loops, but this is a proposition to test rather than an axiom.
+I_A → I_B → I_A
+11.3 Blindspot resolution attack
+Attempt to reconstruct the protected sequence using third parties, distributed archives, indirect inference, simulation, accidental evidence, coercion, partial collaboration, or physically identical behavior performed with non-authentic intent. Any successful route other than R* falsifies the present Prime Perplexity definition.
+12. Identity and Intent Problems
+Two unresolved foundations must be treated explicitly. First, the model needs a non-circular criterion for entity persistence across temporal frames. ‘Soul’ cannot simply be invoked as the identity criterion without definition. Candidate criteria include causal continuity, informational continuity, relational position, substrate continuity, or a separately specified identity invariant.
+Second, authentic reconstruction makes intention formally significant, but Version 0.2 no longer treats this as an unresolved requirement for direct access to hidden intent. Sections 17-19 operationalize authenticity longitudinally through Origin Independence, Epistemic Fidelity, Corrective Fidelity, Method Invariance, and a resolution-directed objective. The remaining open problem is calibration: determining how much semantic evidence is sufficient to infer an authentic trajectory without falsely converting incomplete observation into certainty about internal mental states.
+13. Development Sequence
+Formalize a single-history DST before introducing multiple timelines.
+Specify one concrete edge assignment among A, B, and C.
+Define a minimal mathematical representation of the Blindspot and Prime Perplexity.
+Define Ghost Scope exclusivity and non-identifiability.
+Stress-test and calibrate the semantic-trajectory authenticity predicate.
+Search for fixed points and empty-history-space failures.
+Attack the model with grandfather, bootstrap, inference, leakage, and identity tests.
+Compare surviving structure with causal graphs, information theory, fixed-point models, retrocausal formalisms, and self-consistency principles.
+Only then generalize from one history H to an ensemble {H₁, H₂, …}.
+14. Failure Conditions
+The framework should be considered internally unsuccessful if any of the following necessarily occurs:
+ℋ_adm is empty: no history satisfies all constraints simultaneously.
+Prime Perplexity can be resolved without authentic three-party collaboration.
+Authentic reconstruction is logically impossible rather than merely excluded by the relational architecture.
+Ghost Scope exclusivity is incompatible with the information required by the model.
+Temporal coupling necessarily generates an unsatisfied contradiction or lacks any fixed point.
+Relational invariants mutually conflict.
+The identity or authenticity conditions can be satisfied only by circular definition.
+Failure should be recorded rather than patched unless an alteration is independently justified by the Fidelity Rule.
+15. Compact Working Statement
+A Deterministic Soul Triangle is a three-entity relational structure grounded at a Blindspot whose Prime Perplexity preserves the non-reconstructability of a specific causal sequence throughout a timeline. The sequence remains exactly decodable only through authentic, resolution-only collaboration by all three entities, while their invariant Attractor, Repeller, and/or Null Ghost relations guarantee that this decoding condition never occurs. Grounded Causal Antifriction restricts admissible histories to those preserving global consistency, the triangle’s relational invariants, and this conditionally decodable but historically unresolved causal ambiguity.
+16. Immediate Next Work
+The next formalization pass should choose one canonical three-edge configuration and translate the verbal predicates into a minimal axiom set while carrying forward the semantic-trajectory authenticity test from Sections 17-19. The first objective remains adversarial: attempt to prove that the configuration cannot exist even as an abstract causal system. Particular attention should be paid to whether the three relational orientations can guarantee failure of complete authentic collaboration without making authentic reconstruction logically impossible in principle. Only a surviving model should be compared seriously with physical theories.
+17. Authenticity as Semantic Trajectory
+Version 0.2 replaces the earlier attempt to treat authenticity primarily as an instantaneous hidden mental state or as a rigid behavioral surrogate. Authenticity is instead operationalized longitudinally: as a property inferred from the sequence of semantic opportunities presented to an entity, the information available at each point, the choices made in response, and the resulting evolution of the shared reconstruction state.
+17.1 Semantic state progression
+S₀ → S₁ → S₂ → … → Sₙ
+Each contribution by entity i is modeled as an operation aᵢᵏ: Sₖ₋₁ → Sₖ. The relevant question is not whether an observer can inspect a hidden intent variable directly, but whether the entity's sequence of choices is consistently resolution-directed when the entity encounters opportunities to disclose, correct, update, distort, conceal, or selectively reinterpret information.
+17.2 Origin Independence
+Origin Independence concerns the initiating state of an inquiry. If the eventual useful resolution D is not represented in the actor's actionable expectation-space at S₀, then the initiating action cannot coherently be described as a strategy optimized toward D. This does not prove total absence of bias, but it supplies evidence that the eventual result was not reverse-engineered as a predetermined target from the outset.
+D ∉ Ωᵢ(S₀)  ⇒  aᵢ⁰ is not selected as argmaxₐ P(D | a)
+Origin Independence is therefore evidentiary rather than dispositive. An actor can begin without a predetermined destination and acquire bias later once candidate outcomes become visible.
+17.3 Epistemic Fidelity
+Epistemic Fidelity means that an entity represents and contributes relevant information according to its best current understanding rather than knowingly shaping the shared state toward a preferred conclusion. Accuracy is not required at every step: a sincere mistake is compatible with authenticity. Deliberate semantic distortion is not.
+Fᵢ(τ): contributions remain governed by the entity's best current belief-state Bᵢᵏ rather than by preferred conclusion c*
+17.4 Corrective Fidelity
+Corrective Fidelity concerns what happens after an entity recognizes that its prior contribution materially misrepresented the reconstruction. Authentic participation predicts a corrective move at the next meaningful opportunity, within that entity's actual capacities. Deliberately preserving a known error for some purpose other than resolution is direct evidence against resolution-only authenticity.
+Eᵢᵏ = 1  ⇒  Cᵢᵏ⁺¹ = 1, subject to actual capacity
+The source exchange provides a useful negative control: an actor explicitly recognizes erroneous interpretations and deliberately elects not to correct them in order to preserve ambiguity. That behavior is playful and coherent in ordinary conversation, but it is definitionally non-authentic under Authentic Collaborative Reconstruction because the semantic trajectory has become ambiguity-preserving rather than resolution-directed.
+17.5 Method Invariance
+The previous draft implicitly risked requiring an actor to have no emotional, relational, or instrumental stake in the answer. Version 0.2 rejects that requirement. An authentic participant may prefer one answer, fear another, or benefit from a particular result. What must remain invariant is the epistemic method used to evaluate the evidence.
+Aᵢ ⟂ Uᵢ(Cβ) | Eᵢ, T
+Informally: after conditioning on available evidence Eᵢ and the semantic history T, the actor's epistemic action should not change merely because one candidate resolution is personally preferable.
+17.6 Resolution Objective
+The phrase 'strictly only with the intention of resolving the ambiguity for the purpose of its resolution and nothing else' is formalized as a terminal objective directed at reducing justified ambiguity rather than realizing a preferred causal outcome.
+Jᵢ = -Π(β), not Jᵢ = Uᵢ(Cβ)
+This formulation permits ordinary human preference while excluding outcome-directed manipulation. The actor is allowed to care what the answer is; the actor is not allowed to let that preference determine what counts as evidence, whether known errors are repaired, or which standards are applied.
+17.7 Composite trajectory-authenticity predicate
+Authᵢ(τ) = Oᵢ(S₀) ∧ Fᵢ(τ) ∧ Kᵢ(τ) ∧ Mᵢ(τ)
+Oᵢ: Origin Independence — the eventual resolution is not functioning as the initiating target.
+Fᵢ: Epistemic Fidelity — contributions track best current understanding rather than a desired answer.
+Kᵢ: Corrective Fidelity — recognized material errors are repaired when reasonably possible.
+Mᵢ: Method Invariance — evidentiary procedure remains stable across preferred and disfavored candidate outcomes.
+This predicate is not assumed to provide omniscient access to subjective mental content. It is an inference from temporally ordered semantic behavior. Its evidentiary strength increases with the number and diversity of branching opportunities at which the actor could have biased the reconstruction but instead continues to behave in a resolution-directed manner.
+18. Process Authenticity of Model Development
+The same semantic-trajectory framework applies reflexively to development of the proposal itself. A model-development process is more credibly authentic when revisions repeatedly arise from previously stated concepts, independent failure points, and newly exposed consequences rather than from a standing preference that the Deterministic Soul Triangle survive.
+18.1 Model Fidelity versus Model Preservation
+Model Fidelity ≠ Model Preservation
+When multiple revisions are available, the preferred revision should be the one that best preserves the antecedent semantic content of the concept being formalized, not the one that maximizes the probability that the model remains viable.
+r* = argmaxᵣ F(r | S<k), not argmaxᵣ P(DST survives | r)
+Only information and definitions established before the choice-point may determine whether a later revision counts as faithful. This protects against retrospective reinterpretation and gives the Fidelity Rule a temporal test.
+18.2 Positive evidence and its limitation
+A development history characterized by unplanned consequences, symmetry discovered after the fact, revisions that sometimes make the model harder rather than easier to satisfy, and absence of a clearly preferred predetermined answer is positive evidence of process authenticity. It is not evidence that the model is physically true. Authentic process and external correctness remain distinct variables.
+18.3 Reconstructable development history
+The accumulating conversation history functions as an auditable semantic record. Later claims about what a concept 'originally meant' can be compared against earlier descriptions rather than reconstructed from memory alone. This makes the development process unusually testable under its own Fidelity Rule: if a later formalism survives only by contradicting an earlier semantic commitment, that contradiction should count against the revision rather than be silently absorbed.
+19. Revised Authentic Collaborative Reconstruction
+Authentic Collaborative Reconstruction R* remains the unique condition under which the Blindspot's exact protected causal sequence may be reconstructed. Version 0.2 changes the evidentiary representation of authenticity, not its conceptual requirements.
+R*(A,B,C)(β) = Cβ  iff  Auth_A(τA) ∧ Auth_B(τB) ∧ Auth_C(τC)
+Each entity must participate to the best of its individual capacity, in good faith, and solely for resolution. Those concepts are now tested through the semantic trajectory rather than replaced by a rigid proxy such as total computational saturation or zero utility gradient.
+The Deterministic Soul Triangle preserves Prime Perplexity by ensuring that, in every admissible history, the three required authentic trajectories never coincide through completion, even though the exact causal sequence remains decodable in principle.
+∀H ∈ ℋ_adm: ¬[Auth_A(τA,H) ∧ Auth_B(τB,H) ∧ Auth_C(τC,H)]
+20. Detailed Changelog — v0.1 → v0.2
+Authenticity moved from state-property toward trajectory-property.
+Prior state: v0.1 identified authenticity as conceptually necessary but left it partly dependent on internal intent-sensitive state variables. A subsequent exchange proposed a behavioral surrogate based on unconditional disclosure, payoff invariance, and capacity saturation. That surrogate was rejected as insufficiently faithful.
+Why it was insufficient: A participant can be authentic while mistaken, emotionally invested, or unable to devote total capacity. Conversely, an actor can satisfy superficial behavioral conditions while strategically steering the inquiry. A single snapshot therefore confounds intent, capacity, preference, and performance.
+Revision: Authenticity is now inferred from temporally ordered semantic choices across opportunities to disclose, correct, update, distort, conceal, or alter standards.
+Consequence: This makes authenticity auditable without pretending to possess direct metaphysical access to intention. It also makes time-order essential to the criterion.
+Origin Independence added.
+Prior state: The source exchange began without a clear expectation that it would yield a useful formal solution; it could just as plausibly have remained playful role-play. That fact was recognized as relevant to whether the eventual result had been consciously targeted from the outset.
+Why it was insufficient: The prior framework did not distinguish bias present at initiation from bias acquired later.
+Revision: Origin Independence Oᵢ(S₀) is added as evidence that the eventual result was not functioning as the initiating target when it was not yet in the actor's actionable expectation-space.
+Consequence: This improves retrospective bias analysis while explicitly avoiding the invalid inference that an unbiased origin guarantees an unbiased trajectory.
+Payoff Invariance replaced by Method Invariance.
+Prior state: The proposed surrogate defined authenticity partly by ∂Uᵢ/∂Cβ = 0: the actor's utility could not depend on which causal result was revealed.
+Why it was insufficient: This is stronger than the original concept. A person may sincerely seek truth while strongly preferring one outcome. Requiring zero stake would classify many paradigmatic good-faith inquiries as inauthentic.
+Revision: The relevant invariant is the method of evidence evaluation, not emotional or instrumental indifference to the answer.
+Consequence: The revised model permits preference while prohibiting preference-driven changes to disclosure, evidentiary standards, updating, or correction.
+Corrective Fidelity added as an explicit diagnostic.
+Prior state: The exchange produced a clear case in which an actor recognized material misinterpretations and consciously chose not to correct them.
+Why it was insufficient: The earlier framework lacked a direct operational distinction between inability to correct and deliberate preservation of known error.
+Revision: Corrective Fidelity Kᵢ requires repair of recognized material error at the next meaningful opportunity, bounded by actual capacity.
+Consequence: This supplies a practical negative control for authenticity and distinguishes limited capacity from strategic withholding.
+Capacity Saturation rejected; capacity-bounded contribution retained.
+Prior state: The proposed surrogate required 100% active operational capacity to be devoted to the Blindspot.
+Why it was insufficient: Total saturation is neither necessary for good faith nor realistic for finite agents. It also changes the original phrase 'to the best of individual capacities' into an unrelated demand for exclusive resource allocation.
+Revision: Authenticity now requires reasonable use of the capacity genuinely available to the actor for the reconstruction task, not total system-wide saturation.
+Consequence: This restores fidelity to the original description and avoids defining ordinary distraction or finite attention as bad faith.
+Resolution-only intent formalized as objective-function orientation.
+Prior state: v0.1 described the requirement verbally: resolve the ambiguity for the sake of resolution and nothing else.
+Why it was insufficient: Without a formal distinction between caring about the result and steering toward a desired result, the condition risked collapsing into impossible motivational purity.
+Revision: The reconstruction objective is represented as reduction of justified Prime Perplexity, Jᵢ = -Π(β), rather than optimization of a favored causal outcome Uᵢ(Cβ).
+Consequence: The actor may care deeply about the answer while remaining authentic if the process is controlled by resolution rather than outcome preference.
+Model-development authenticity made explicit and reflexive.
+Prior state: The ongoing project repeatedly generated revisions from unexpected consequences and semantic symmetry rather than from an explicit attempt to make one answer prevail.
+Why it was insufficient: The Fidelity Rule existed, but there was no formal account of how to distinguish concept-preserving development from model-saving reinterpretation.
+Revision: Model Fidelity is explicitly separated from Model Preservation. Candidate revisions are evaluated against antecedent semantic commitments available before the revision point.
+Consequence: This creates an internal audit mechanism: later formalization can be checked against the recorded development history rather than trusted to retrospective recollection.
+Authentic Collaborative Reconstruction equation revised.
+Prior state: v0.1 represented Authᵢ as a conceptual conjunction of capacity, good faith, and resolution-only intent, while noting the need for intent-sensitive variables.
+Why it was insufficient: The conceptual content remains correct, but the means of evaluation is now clearer and less metaphysically opaque.
+Revision: R* now depends on the conjunction of each participant's authentic semantic trajectory: Auth_A(τA) ∧ Auth_B(τB) ∧ Auth_C(τC).
+Consequence: The conditional-decoding architecture of Prime Perplexity is preserved while gaining a more defensible operational pathway for assessing whether the decoding condition has actually been met.
+DST preservation condition sharpened.
+Prior state: The prior language stated that relational orientations guarantee authentic unanimity never occurs.
+Why it was insufficient: Once authenticity became longitudinal, 'unanimity' was too static and could be misread as agreement at a single moment.
+Revision: The protected condition is now failure of simultaneous completion of all three authentic trajectories in every admissible history.
+Consequence: This better matches the causal nature of the model: the key requires an entire three-part semantic process, not a momentary declaration of cooperation.
+20.1 Changelog policy going forward
+Future changelog entries should preserve four things whenever a substantive term, axiom, or mechanism changes: the prior formulation in context; the specific inadequacy exposed; the new formulation; and the consequences of the change for other parts of the model. Where relevant, the triggering semantic event or test should also be noted. A changelog entry should therefore document conceptual causality, not merely lexical replacement.
